@@ -1,0 +1,16 @@
+{
+  "name": "Sequelize_index",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "ramontferreira <ramonx.ferreira@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "express": "^4.17.3",
+    "pg": "^8.7.3",
+    "sequelize": "^6.17.0"
+  },
+  "devDependencies": {
+    "sequelize-cli": "^6.4.1"
+  }
+}
